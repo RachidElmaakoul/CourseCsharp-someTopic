@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\bin\Debug\net8.0\Event.ConsoleApp.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\bin\Debug\net8.0\Event.ConsoleApp.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\bin\Debug\net8.0\Event.ConsoleApp.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\bin\Debug\net8.0\Event.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\bin\Debug\net8.0\Event.ConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\refint\Event.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\Event.ConsoleApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Event\Event.ConsoleApp\obj\Debug\net8.0\ref\Event.ConsoleApp.dll
