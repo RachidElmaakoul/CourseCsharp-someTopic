@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\bin\Debug\net8.0\OperatorOverLoading.ConsoleApp.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\bin\Debug\net8.0\OperatorOverLoading.ConsoleApp.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\bin\Debug\net8.0\OperatorOverLoading.ConsoleApp.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\bin\Debug\net8.0\OperatorOverLoading.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\bin\Debug\net8.0\OperatorOverLoading.ConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\refint\OperatorOverLoading.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\OperatorOverLoading.ConsoleApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\OperatorOverLoading\OperatorOverLoading.ConsoleApp\obj\Debug\net8.0\ref\OperatorOverLoading.ConsoleApp.dll
