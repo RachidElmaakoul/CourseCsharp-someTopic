@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\bin\Debug\net8.0\Finalizers.ConsoleApp.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\bin\Debug\net8.0\Finalizers.ConsoleApp.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\bin\Debug\net8.0\Finalizers.ConsoleApp.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\bin\Debug\net8.0\Finalizers.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\bin\Debug\net8.0\Finalizers.ConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\refint\Finalizers.ConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\Finalizers.ConsoleApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Finalizers\Finalizers.ConsoleApp\obj\Debug\net8.0\ref\Finalizers.ConsoleApp.dll
