@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\bin\Debug\net8.0\enumConsoleApp.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\bin\Debug\net8.0\enumConsoleApp.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\bin\Debug\net8.0\enumConsoleApp.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\bin\Debug\net8.0\enumConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\bin\Debug\net8.0\enumConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\refint\enumConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\enumConsoleApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\enum\enumConsoleApp\obj\Debug\net8.0\ref\enumConsoleApp.dll
