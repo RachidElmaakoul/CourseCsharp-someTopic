@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\bin\Debug\net8.0\GenericsConsoleApp.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\bin\Debug\net8.0\GenericsConsoleApp.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\bin\Debug\net8.0\GenericsConsoleApp.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\bin\Debug\net8.0\GenericsConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\bin\Debug\net8.0\GenericsConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\refint\GenericsConsoleApp.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\GenericsConsoleApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Generics\GenericsConsoleApp\obj\Debug\net8.0\ref\GenericsConsoleApp.dll
