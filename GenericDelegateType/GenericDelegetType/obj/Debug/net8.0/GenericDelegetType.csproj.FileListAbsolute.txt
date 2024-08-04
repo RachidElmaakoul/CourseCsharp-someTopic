@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\bin\Debug\net8.0\GenericDelegetType.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\bin\Debug\net8.0\GenericDelegetType.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\bin\Debug\net8.0\GenericDelegetType.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\bin\Debug\net8.0\GenericDelegetType.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\bin\Debug\net8.0\GenericDelegetType.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\refint\GenericDelegetType.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\GenericDelegetType.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\test\GenericDelegetType\obj\Debug\net8.0\ref\GenericDelegetType.dll
