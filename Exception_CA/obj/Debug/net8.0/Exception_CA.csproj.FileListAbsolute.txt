@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\bin\Debug\net8.0\Exception_CA.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\bin\Debug\net8.0\Exception_CA.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\bin\Debug\net8.0\Exception_CA.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\bin\Debug\net8.0\Exception_CA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\bin\Debug\net8.0\Exception_CA.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\refint\Exception_CA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\Exception_CA.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Exceptions\Exception_CA\obj\Debug\net8.0\ref\Exception_CA.dll
