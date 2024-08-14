@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\bin\Debug\net8.0\Enumerators_iterators_CA.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\bin\Debug\net8.0\Enumerators_iterators_CA.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\bin\Debug\net8.0\Enumerators_iterators_CA.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\bin\Debug\net8.0\Enumerators_iterators_CA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\bin\Debug\net8.0\Enumerators_iterators_CA.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\refint\Enumerators_iterators_CA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\Enumerators_iterators_CA.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Enumerators_iterators_CA\obj\Debug\net8.0\ref\Enumerators_iterators_CA.dll

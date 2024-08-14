@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Enumerators_iterators_CA/1.0.0": {
+        "runtime": {
+          "Enumerators_iterators_CA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enumerators_iterators_CA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
