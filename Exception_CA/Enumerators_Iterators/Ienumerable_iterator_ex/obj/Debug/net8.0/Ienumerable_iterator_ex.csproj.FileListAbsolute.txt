@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\bin\Debug\net8.0\Ienumerable_iterator_ex.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\bin\Debug\net8.0\Ienumerable_iterator_ex.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\bin\Debug\net8.0\Ienumerable_iterator_ex.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\bin\Debug\net8.0\Ienumerable_iterator_ex.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\bin\Debug\net8.0\Ienumerable_iterator_ex.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\refint\Ienumerable_iterator_ex.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\Ienumerable_iterator_ex.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\Ienumerable_iterator_ex\obj\Debug\net8.0\ref\Ienumerable_iterator_ex.dll
