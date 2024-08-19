@@ -61,14 +61,13 @@ namespace Ienumerable_iterator_ex
             public void Reset() => CurrentIndex = -1;
         }*/
         //this is new methode
-    public IEnumerator GetEnumerator()
-    {
-    foreach (var item in ints)
-            {
-               return yield item;
-            }
-    }
-        
+      public IEnumerator GetEnumerator()
+  {
+      foreach (var item in _value)
+      {
+           yield return item;
+      }
+  } 
 
     }
 }
