@@ -26,7 +26,8 @@ namespace Ienumerable_iterator_ex
             _value = new int[] {n1,n2,n3,n4,n5};
         }
 
-        public IEnumerator GetEnumerator() => new Enumerator(this);
+         // You can change all these by "yield" KeyWord
+       /* public IEnumerator GetEnumerator() => new Enumerator(this);
         class Enumerator : IEnumerator
         {
             int CurrentIndex = -1;
@@ -42,7 +43,7 @@ namespace Ienumerable_iterator_ex
                 {
                     if (CurrentIndex == -1)
                         throw new InvalidOperationException("Enumeration not started");
-                    if (CurrentIndex == _integers._value.Length)
+                   if (CurrentIndex == _integers._value.Length)
                         throw new InvalidOperationException("Enumeration has ended");
 
                     return _integers._value[CurrentIndex];
@@ -58,7 +59,16 @@ namespace Ienumerable_iterator_ex
             }
 
             public void Reset() => CurrentIndex = -1;
-        }
+        }*/
+        //this is new methode
+    public IEnumerator GetEnumerator()
+    {
+    foreach (var item in ints)
+            {
+               return yield item;
+            }
+    }
+        
 
     }
 }
