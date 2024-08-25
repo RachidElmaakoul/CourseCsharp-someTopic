@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\bin\Debug\net8.0\XMLDocumentationCA.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\bin\Debug\net8.0\XMLDocumentationCA.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\bin\Debug\net8.0\XMLDocumentationCA.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\bin\Debug\net8.0\XMLDocumentationCA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\bin\Debug\net8.0\XMLDocumentationCA.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\refint\XMLDocumentationCA.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\XMLDocumentationCA.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\Enumerators_Iterators\XML Documentation\XMLDocumentationCA\obj\Debug\net8.0\ref\XMLDocumentationCA.dll
